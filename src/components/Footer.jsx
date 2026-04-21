@@ -5,12 +5,11 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-container">
-        {/* Logo at the very top */}
         <div className="footer-logo">
           <h3>logoipsum</h3>
         </div>
         
-        {/* Text below logo */}
+        {/* Text logo */}
         <div className="footer-text">
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
           <p className="footer-small"> Incidunt consequuntur amet culpa cum itaque neque.</p>
@@ -26,7 +25,7 @@ const Footer = () => {
           <a href="#blog">Blog</a>
         </div>
         
-        {/* Social Icons Centered */}
+        {/* Social Icons */}
         <div className="footer-social">
           <a href="#" aria-label="Facebook"><FaFacebookF /></a>
           <a href="#" aria-label="Instagram"><FaInstagram /></a>

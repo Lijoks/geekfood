@@ -433,7 +433,7 @@ body {
   font-size: 0.9rem;
 }
 
-/* Footer - Logo at Top, Everything Centered */
+/* Footer - Logo at Top */
 .footer {
   background: #eeecec;
   color: rgba(34, 32, 32, 0.788);
@@ -450,7 +450,7 @@ body {
   gap: 1.2rem;
 }
 
-/* Logo at the very top */
+/* Logo at the  top */
 .footer-logo h3 {
   font-size: 1.8rem;
   font-weight: bold;
@@ -458,7 +458,7 @@ body {
   margin: 0;
 }
 
-/* Text section below logo */
+/* Text section  logo */
 .footer-text {
   text-align: center;
 }
