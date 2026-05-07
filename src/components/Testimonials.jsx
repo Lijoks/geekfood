@@ -1,5 +1,5 @@
 import React from 'react'
-import profilePic from '../assets/profile_pic.jpg'  // Import the profile image
+import profilePic from '../assets/profile_pic.jpg' 
 
 const Testimonials = () => {
   const testimonialsData = [
